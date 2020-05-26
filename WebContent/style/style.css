@@ -1,0 +1,24 @@
+
+#btnjs{
+	background-color: #c8d509;
+	font-weight:bold;
+	color: black;
+	font-size: 90%;
+}
+.container .btn-bd-inscrire {
+    font-weight: 600;
+    color: #fefefe;
+    border-color: #fefefe;
+}
+.container .btn-bd-inscrire:hover {
+	background-color: #fefefe;
+}
+.container .btn-bd-identifier {
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+.container .btn-bd-identifier:hover {
+background-color: gold;
+}
+
